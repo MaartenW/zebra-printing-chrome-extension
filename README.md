@@ -45,6 +45,7 @@ The event will contain two fields:
 
 - ZT220 with firmware V72.19.15Z
 - ZT220 with firmware V72.20.01Z
+- ZT230 with firmware V72.20.22Z
 
 Feel free to open a pull request to add other supported printers!
 
